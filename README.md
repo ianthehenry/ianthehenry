@@ -1,3 +1,1 @@
-Hey! I just published a free online book. Check it out:
-
-# [*Janet for Mortals*](https://janet.guide/)
+[psst, hey kid, wanna read a weird programming book](https://janet.guide/)
